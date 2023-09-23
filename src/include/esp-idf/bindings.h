@@ -89,6 +89,7 @@
 #include "esp_now.h"
 #include "esp_mesh.h"
 #include "esp_wpa2.h"
+#include "esp_wps.h"
 #endif
 
 #ifdef ESP_IDF_COMP_WPA_SUPPLICANT_ENABLED
